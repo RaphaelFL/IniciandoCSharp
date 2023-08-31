@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\bin\Debug\net6.0\3-Caracteres.exe
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\bin\Debug\net6.0\3-Caracteres.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\bin\Debug\net6.0\3-Caracteres.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\bin\Debug\net6.0\3-Caracteres.dll
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\bin\Debug\net6.0\3-Caracteres.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\3-Caracteres.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\3-Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\3-Caracteres.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\3-Caracteres.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\3-Caracteres.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\3-Caracteres.dll
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\refint\3-Caracteres.dll
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\3-Caracteres.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\3-Caracteres.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\csTeste\AprendedoCSharp\03-Caracteres\obj\Debug\net6.0\ref\3-Caracteres.dll
